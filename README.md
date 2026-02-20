@@ -6,7 +6,7 @@
 
 ## 🔗 Live App
 
-> **Deployed URL:** *(Add your Streamlit Cloud URL here after deployment)*
+> **Deployed URL:** *([Add your Streamlit Cloud URL here after deployment](https://krishisahayak4981.streamlit.app/))*
 
 ---
 
@@ -22,30 +22,30 @@ Originally developed as a **FA-2 Generative AI Course Project**, converted from 
 
 ## 📸 Screenshots
 
-> **How to add your screenshots:**
-> 1. Take screenshots of your running app
-> 2. Save them in a `/screenshots` folder in your repo
-> 3. Replace the placeholder paths below with your actual image filenames
-
 ### 🔐 Login Page
-![Login Page](screenshots/login.png)
+![Login Page]
 *Animated glassmorphism login screen with language selection*
+<img width="1918" height="918" alt="image" src="https://github.com/user-attachments/assets/8d29f694-e5d0-4f91-9b41-61603539d5a3" />
 
 ### 🏠 Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard]
 *Main dashboard with weather widget, stats row, and feature cards*
+<img width="1918" height="925" alt="image" src="https://github.com/user-attachments/assets/31299dfd-50de-4a2d-8fdf-c5b111470a8f" />
 
 ### 💬 Chat Interface
-![Chat](screenshots/chat.png)
+![Chat]
 *In-feature AI chat with quick prompts and image upload*
+<img width="1918" height="923" alt="image" src="https://github.com/user-attachments/assets/bb28ce10-5d3a-46e6-9cd0-69a7e93fe3ea" />
 
 ### ✅ Model Validation
-![Validation](screenshots/validation.png)
+![Validation]
 *6-prompt validation tab with auto quality scoring*
+<img width="1918" height="926" alt="image" src="https://github.com/user-attachments/assets/2e3aa78a-0198-4a9f-8cb0-fc94b9d9a16b" />
 
 ### 📊 Feedback Checklist
 ![Checklist](screenshots/checklist.png)
 *10-criteria feedback checklist with grade report and CSV export*
+<img width="1917" height="921" alt="image" src="https://github.com/user-attachments/assets/98a59b83-69fe-487b-a4e5-b66241bb5fe2" />
 
 ---
 
