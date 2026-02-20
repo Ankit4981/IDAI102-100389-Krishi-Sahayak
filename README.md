@@ -6,7 +6,7 @@
 
 ## 🔗 Live App
 
-> **Deployed URL:** *([Add your Streamlit Cloud URL here after deployment](https://krishisahayak4981.streamlit.app/))*
+> **Deployed URL:** *(https://krishisahayak4981.streamlit.app/)
 
 ---
 
